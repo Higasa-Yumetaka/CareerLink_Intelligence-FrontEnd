@@ -1,0 +1,6 @@
+.HomeBody {
+    width: 80%;
+    margin: 30px auto;
+    display: grid;
+    place-items: center;
+}
